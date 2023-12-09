@@ -16,10 +16,10 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Nextly - Free Nextjs & TailwindCSS Landing Page Template</title>
+        <title>MBY Logistics - Đặt hàng Trung Quốc</title>
         <meta
           name="description"
-          content="Nextly is a free landing page template built with next.js & Tailwind CSS"
+          content="Nhập Hàng Trung Quốc Tận Gốc, Tối Ưu Chi Phí, Vận Chuyển Nhanh Chóng"
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>
@@ -33,24 +33,22 @@ export default function Home() {
       </SectionTitle>
       <Benefits data={benefitOne} />
       <Benefits imgPos="right" data={benefitTwo} />
-      <SectionTitle
+      {/* <SectionTitle
         pretitle="Watch a video"
         title="Learn how to fullfil your needs">
         This section is to highlight a promo or demo video of your product.
         Analysts says a landing page with video has 3% more conversion rate. So,
         don't forget to add one. Just like this.
       </SectionTitle>
-      <Video />
+      <Video /> */}
       <SectionTitle
-        pretitle="Testimonials"
-        title="Here's what our customers said">
-        Testimonails is a great way to increase the brand trust and awareness.
-        Use this section to highlight your popular customers.
+        pretitle="Đánh Giá"
+        title="Phản hồi từ khách hàng của chúng tôi">
+         Sự hài lòng được thể hiện qua đánh giá của khách hàng đối với chất lượng và dịch vụ của MBY Logistics
       </SectionTitle>
       <Testimonials />
-      <SectionTitle pretitle="FAQ" title="Frequently Asked Questions">
-        Answer your customers possible questions here, it will increase the
-        conversion rate as well as support or chat requests.
+      <SectionTitle pretitle="FAQ" title="Câu Hỏi Thường Gặp">
+        Một vài câu hỏi thường gặp của khách hàng khi trải nghiệm dịch vụ của MBY Logistics
       </SectionTitle>
       <Faq />
       <Cta />
