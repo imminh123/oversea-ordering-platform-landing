@@ -55,10 +55,10 @@ export default function Hero() {
       <Container>
         <div className="flex flex-col justify-center">
           <div className="text-xl text-center text-gray-700 dark:text-white">
-            Tin cậy bởi <span className="text-indigo-600">40+</span> đối tác trong nước và quốc tế.
+            Tin cậy bởi <span className="text-indigo-600">20+</span> đối tác trong nước và quốc tế.
           </div>
 
-          <div className="flex flex-wrap justify-center gap-5 mt-10 md:justify-around">
+          {/* <div className="flex flex-wrap justify-center gap-5 mt-10 md:justify-around">
             <div className="pt-2 text-gray-400 dark:text-gray-400">
               <AmazonLogo />
             </div>
@@ -74,7 +74,7 @@ export default function Hero() {
             <div className="pt-2 text-gray-400 dark:text-gray-400">
               <SonyLogo />
             </div>
-          </div>
+          </div> */}
         </div>
       </Container>
     </>

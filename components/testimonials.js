@@ -13,42 +13,41 @@ export default function Testimonials() {
         <div className="lg:col-span-2 xl:col-auto">
           <div className="flex flex-col justify-between w-full h-full bg-gray-100 px-14 rounded-2xl py-14 dark:bg-trueGray-800">
             <p className="text-2xl leading-normal ">
-              Share a real <Mark>testimonial</Mark>
-              that hits some of your benefits from one of your popular customer.
+              Mình thường xuyên nhập quần áo về bán và rất tin tưởng sử dụng
+              dịch vụ của <Mark>MBY</Mark> vì mức giá thấp, hàng về nhanh
             </p>
-
             <Avatar
               image={userOneImg}
-              name="Sarah Steiner"
-              title="VP Sales at Google"
+              name="Sơn Trung"
+              title="Chủ cửa hàng thời trang"
             />
           </div>
         </div>
         <div className="">
           <div className="flex flex-col justify-between w-full h-full bg-gray-100 px-14 rounded-2xl py-14 dark:bg-trueGray-800">
             <p className="text-2xl leading-normal ">
-              Make sure you only pick the <Mark>right sentence</Mark>
-              to keep it short and simple.
+              Dịch vụ của <Mark>MBY</Mark> cực kì thân thiệt, giá tốt so với thị
+              trường và hàng về tương đối nhanh.
             </p>
 
             <Avatar
               image={userTwoImg}
-              name="Dylan Ambrose"
-              title="Lead marketer at Netflix"
+              name="Mai Quyên"
+              title="Bán hàng Tiktok"
             />
           </div>
         </div>
         <div className="">
           <div className="flex flex-col justify-between w-full h-full bg-gray-100 px-14 rounded-2xl py-14 dark:bg-trueGray-800">
             <p className="text-2xl leading-normal ">
-              This is an <Mark>awesome</Mark> landing page template I've seen. I
-              would use this for anything.
+              Rất ấn tượng với <Mark>MBY</Mark> vì ngoài chi phí quá ưu đãi cho
+              Shop thì tư vấn rất nhiệt tình, nền tảng dễ dùng.
             </p>
 
             <Avatar
               image={userThreeImg}
-              name="Gabrielle Winn"
-              title="Co-founder of Acme Inc"
+              name="Huyền Anh"
+              title="Kinh doanh tự do"
             />
           </div>
         </div>
