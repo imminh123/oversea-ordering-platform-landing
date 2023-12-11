@@ -92,8 +92,7 @@ export default function Privacy() {
           <h2>Liên hệ</h2>
           <p>
             Nếu bạn có bất kỳ câu hỏi nào về Chính sách bảo mật này hoặc vấn đề
-            liên quan đến mby.vn web, vui lòng liên hệ với chúng tôi qua [Thông
-            tin liên hệ].
+            liên quan đến mby.vn web, vui lòng liên hệ với chúng tôi qua info@mby.vn.
           </p>
           <p>Tài liệu này được cập nhật lần cuối vào 20/12/2023.</p>
         </article>

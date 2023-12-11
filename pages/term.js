@@ -94,7 +94,7 @@ export default function Term() {
           <h2>Liên hệ</h2>
           <p>
             Nếu bạn có bất kỳ câu hỏi nào về Điều khoản dịch vụ này, vui lòng
-            liên hệ với chúng tôi qua [Thông tin liên hệ].
+            liên hệ với chúng tôi qua info@mby.vn.
           </p>
           <p>Tài liệu này được cập nhật lần cuối vào 20/12/2023.</p>
         </article>
