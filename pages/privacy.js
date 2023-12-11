@@ -20,14 +20,14 @@ export default function Privacy() {
       <Navbar />
       <section className="mt-10 bg-red w-full">
         <article class="prose lg:prose-lg m-auto">
-          <h1 >Chính sách Bảo mật</h1>
+          <h1>Chính sách Bảo mật</h1>
           <p>
             Chính sách Bảo mật này quy định cách MBY Logistics thu thập, sử
             dụng, duy trì và tiết lộ thông tin từ người dùng (mỗi người dùng,
-            được gọi là "Người dùng") của trang web [MBY
-            Logistics]("https://mby.vn/"). Chính sách Bảo mật này áp dụng cho
-            mby.vn và tất cả các sản phẩm và dịch vụ được cung cấp bởi MBY
-            Logistics.
+            được gọi là "Người dùng") của trang web{" "}
+            <a href="https://mby.vn/">MBY Logistics</a>. Chính sách Bảo mật này
+            áp dụng cho mby.vn và tất cả các sản phẩm và dịch vụ được cung cấp
+            bởi MBY Logistics.
           </p>
           <h2>Thông tin nhận dạng cá nhân</h2>
           <p>
@@ -89,10 +89,55 @@ export default function Privacy() {
             bảo mật này. Nếu bạn không đồng ý với Chính sách này, vui lòng không
             sử dụng mby.vn web của chúng tôi.
           </p>
+
+          <h2 id="data_deletion">Yêu Cầu Xóa Dữ Liệu</h2>
+          <p>
+            Chúng tôi tôn trọng quyền riêng tư của bạn và cam kết bảo vệ thông
+            tin cá nhân của bạn. Nếu bạn muốn loại bỏ thông tin cá nhân của mình
+            khỏi hồ sơ của chúng tôi, vui lòng tuân theo các bước sau:
+          </p>
+
+          <ol>
+            <li>
+              <h3>Truy Cập Cài Đặt Tài Khoản:</h3>
+              Đăng nhập vào tài khoản của bạn trên{" "}
+              <a target="_blank" href="https://app.mby.vn">
+                app.mby.vn
+              </a>
+              . Điều hướng đến phần <b>Tài Khoản</b>.
+            </li>
+
+            <li>
+              <h3>Tìm Tùy Chọn Xóa Dữ Liệu</h3>
+              <p>
+                Tìm kiếm tùy chọn có tiêu đề <b>Yêu Cầu Xóa Dữ Liệu</b>.
+              </p>
+            </li>
+
+            <li>
+              <h3>Gửi Yêu Cầu Của Bạn</h3>
+              <p>
+                Tuân theo hướng dẫn cung cấp để khởi động quá trình xóa dữ liệu.
+                Cung cấp bất kỳ thông tin cần thiết hoặc chi tiết yêu cầu để xác
+                minh danh tính của bạn và xác định chính xác dữ liệu cần xóa.
+              </p>
+            </li>
+
+            <li>
+              <h3>Xác Nhận và Xử Lý</h3>
+              <p>
+                Bạn sẽ nhận được một tin nhắn xác nhận để thông báo yêu cầu của
+                bạn. Đội ngũ của chúng tôi sẽ xem xét yêu cầu của bạn và tiến
+                hành quá trình xóa trong vòng 1 tuần làm việc.
+              </p>
+            </li>
+          </ol>
+
           <h2>Liên hệ</h2>
           <p>
             Nếu bạn có bất kỳ câu hỏi nào về Chính sách bảo mật này hoặc vấn đề
-            liên quan đến mby.vn web, vui lòng liên hệ với chúng tôi qua info@mby.vn.
+            liên quan đến mby.vn web, vui lòng liên hệ với chúng tôi qua
+            info@mby.vn.
           </p>
           <p>Tài liệu này được cập nhật lần cuối vào 20/12/2023.</p>
         </article>
